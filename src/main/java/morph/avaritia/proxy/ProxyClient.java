@@ -46,12 +46,14 @@ public class ProxyClient extends Proxy {
     //@formatter:off
     public static final int[] SINGULARITY_COLOURS_FOREGROUND = new int[] {
             0xBFBFBF, 0xE8EF23, 0x5a82e2, 0xDF0000, 0xeeebe6, 0xE47200,
-            0xA5C7DE, 0x444072, 0xF9F9F9, 0xDEE187, 0x8890AD
+            0xA5C7DE, 0x444072, 0xF9F9F9, 0xDEE187, 0x8890AD, 0x45ACA5,
+            0x5CBE34
     };
 
     public static final int[] SINGULARITY_COLOURS_BACKGROUND = new int[] {
             0x7F7F7F, 0xdba213, 0x224baf, 0x900000, 0x94867d, 0x89511A,
-            0x9BA9B2, 0x3E3D4E, 0xD5D5D5, 0xC4C698, 0x666B7F
+            0x9BA9B2, 0x3E3D4E, 0xD5D5D5, 0xC4C698, 0x666B7F, 0x8fcdc9,
+            0x8cd170
     };
 
     public static final int[][] SINGULARITY_COLOURS = new int[][] {
